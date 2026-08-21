@@ -64,16 +64,16 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E9BFF&icon_color=2E9BFF&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E9BFF&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-baroni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E9BFF&icon_color=2E9BFF&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-baroni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E9BFF&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0d1117&ring=2E9BFF&fire=2E9BFF&currStreakLabel=2E9BFF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitor-baroni&theme=tokyonight&hide_border=true&background=0d1117&ring=2E9BFF&fire=2E9BFF&currStreakLabel=2E9BFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&margin-w=15&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vitor-baroni&theme=algolia&no-frame=true&margin-w=15&column=7"/>
 </div>
 
 <br/>
@@ -90,9 +90,8 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0575E6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-2E9BFF?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM)
-[![Gmail](https://img.shields.io/badge/Gmail-001B79?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0575E6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-baroni-166169254/)
+[![Instagram](https://img.shields.io/badge/Instagram-2E9BFF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor.baronii/)
 
 </div>
 
