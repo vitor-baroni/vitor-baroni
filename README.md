@@ -61,21 +61,37 @@ me.say_hi()
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 Profile Overview
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vitor-baroni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E9BFF&icon_color=2E9BFF&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitor-baroni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E9BFF&text_color=c9d1d9"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=vitor-baroni&color=2E9BFF&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/vitor-baroni?style=for-the-badge&color=2E9BFF&labelColor=001B79&label=FOLLOWERS)
+
 </div>
+
+<br/>
+
+## ⚡ Skill Proficiency
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=vitor-baroni&theme=tokyonight&hide_border=true&background=0d1117&ring=2E9BFF&fire=2E9BFF&currStreakLabel=2E9BFF"/>
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vitor-baroni&theme=algolia&no-frame=true&margin-w=15&column=7"/>
-</div>
+`PHP`
+![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-2E9BFF?style=flat-square)
 
+`JavaScript`
+![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-0575E6?style=flat-square)
+
+`Python`
+![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-1E90FF?style=flat-square)
+
+`SQL`
+![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-0A66C2?style=flat-square)
+
+`n8n`
+![](https://img.shields.io/badge/%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-021B79?style=flat-square)
+
+</div>
 <br/>
 
 ## 🐍 Contribution Snake
