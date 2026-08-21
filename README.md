@@ -64,12 +64,12 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-baroni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E9BFF&icon_color=2E9BFF&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-baroni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E9BFF&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vitor-baroni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E9BFF&icon_color=2E9BFF&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitor-baroni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E9BFF&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitor-baroni&theme=tokyonight&hide_border=true&background=0d1117&ring=2E9BFF&fire=2E9BFF&currStreakLabel=2E9BFF"/>
+  <img src="https://streak-stats.demolab.com/?user=vitor-baroni&theme=tokyonight&hide_border=true&background=0d1117&ring=2E9BFF&fire=2E9BFF&currStreakLabel=2E9BFF"/>
 </div>
 
 <div align="center">
